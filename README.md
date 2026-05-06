@@ -8,7 +8,7 @@ Un sistema simple para registrar hábitos diarios y ver tu progreso.
 
 ---
 
-## Español
+## Español 
 
 * Registra hábitos y ve rachas/métricas.
 
